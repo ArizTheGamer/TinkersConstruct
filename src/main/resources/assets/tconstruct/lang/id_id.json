@@ -312,27 +312,27 @@
   "_comment": "Small Head Gold Casts",
 
   "item.tconstruct.pick_head_cast": "Tuangan Kepala Beliung",
-  "item.tconstruct.small_axe_head_cast": "Tuangan Kepala Kapak Kecil Emas",
-  "item.tconstruct.small_blade_cast": "Tuangan Bilah Kecil Emas",
-  "item.tconstruct.sign_head_cast": "Tuangan Kepala Tanda Emas",
-  "item.tconstruct.bow_limb_cast": "Tuangan Bagian Busur Emas",
+  "item.tconstruct.small_axe_head_cast": "Tuangan Kepala Kapak Kecil",
+  "item.tconstruct.small_blade_cast": "Tuangan Bilah Kecil",
+  "item.tconstruct.sign_head_cast": "Tuangan Kepala Tanda",
+  "item.tconstruct.bow_limb_cast": "Tuangan Bagian Busur",
 
   "_comment": "Large Head Gold Casts",
 
-  "item.tconstruct.hammer_head_cast": "Tuangan Kepala Palu Emas",
-  "item.tconstruct.broad_axe_head_cast": "Tuangan Kepala Kapak Lebar Emas",
-  "item.tconstruct.broad_blade_cast": "Tuangan Bilah Besar Emas",
+  "item.tconstruct.hammer_head_cast": "Tuangan Kepala Palu",
+  "item.tconstruct.broad_axe_head_cast": "Tuangan Kepala Kapak Lebar",
+  "item.tconstruct.broad_blade_cast": "Tuangan Bilah Besar",
 
   "_comment": "Binding Gold Casts",
 
-  "item.tconstruct.tool_binding_cast": "Tuangan Pengikat Alat Emas",
-  "item.tconstruct.round_plate_cast": "Tuangan Piringan Bulat Emas",
-  "item.tconstruct.large_plate_cast": "Tuangan Piringan Besar Emas",
+  "item.tconstruct.tool_binding_cast": "Tuangan Pengikat Alat",
+  "item.tconstruct.round_plate_cast": "Tuangan Piringan Bulat",
+  "item.tconstruct.large_plate_cast": "Tuangan Piringan Besar",
 
   "_comment": "Tool Handle Gold Casts",
 
-  "item.tconstruct.tool_handle_cast": "Tuangan Pegangan Alat Emas",
-  "item.tconstruct.tough_handle_cast": "Tuangan Pegangan Kuat Emas",
+  "item.tconstruct.tool_handle_cast": "Tuangan Pegangan Alat",
+  "item.tconstruct.tough_handle_cast": "Tuangan Pegangan Kuat",
 
 
   "_comment": "Tinkers Sand Casts",
@@ -384,45 +384,45 @@
   "item.tconstruct.gem_red_sand_cast": "Tuangan Permata Pasir Merah",
   "item.tconstruct.rod_red_sand_cast": "Tuangan Tongkat Pasir Merah",
 
-  "item.tconstruct.gear_red_sand_cast": "Gear Red Sand Cast",
-  "item.tconstruct.plate_red_sand_cast": "Small Plate Red Sand Cast",
-  "item.tconstruct.coin_red_sand_cast": "Coin Red Sand Cast",
-  "item.tconstruct.wire_red_sand_cast": "Wire Red Sand Cast",
+  "item.tconstruct.gear_red_sand_cast": "Tuangan Gir Pasir Merah",
+  "item.tconstruct.plate_red_sand_cast": "Tuangan Plat Pasir Merah",
+  "item.tconstruct.coin_red_sand_cast": "Tuangan Koin Pasir Merah",
+  "item.tconstruct.wire_red_sand_cast": "Tuangan Kawat Pasir Merah",
 
-  "item.tconstruct.repair_kit_red_sand_cast": "Repair Kit Red Sand Cast",
+  "item.tconstruct.repair_kit_red_sand_cast": "Tuangan Kotak Perbaikan Pasir Merah",
 
   "_comment": "Small Head Red Sand Casts",
 
-  "item.tconstruct.pick_head_red_sand_cast": "Pick Head Red Sand Cast",
-  "item.tconstruct.small_axe_head_red_sand_cast": "Small Axe Head Red Sand Cast",
-  "item.tconstruct.small_blade_red_sand_cast": "Small Blade Red Sand Cast",
-  "item.tconstruct.sign_head_red_sand_cast": "Sign Head Red Sand Cast",
-  "item.tconstruct.bow_limb_red_sand_cast": "Bow Limb Red Sand Cast",
+  "item.tconstruct.pick_head_red_sand_cast": "Tuangan Kepala Beliung Pasir Merah",
+  "item.tconstruct.small_axe_head_red_sand_cast": "Tuangan Kepala Kapak Pasir Merah",
+  "item.tconstruct.small_blade_red_sand_cast": "Tuangan Bilah Kecil Pasir Merah",
+  "item.tconstruct.sign_head_red_sand_cast": "Tuangan Kepala Tanda Pasir Merah",
+  "item.tconstruct.bow_limb_red_sand_cast": "Tuangan Bagian Busur Pasir Merah",
 
   "_comment": "Large Head Red Sand Casts",
 
-  "item.tconstruct.hammer_head_red_sand_cast": "Hammer Head Red Sand Cast",
-  "item.tconstruct.broad_axe_head_red_sand_cast": "Broad Axe Head Red Sand Cast",
-  "item.tconstruct.broad_blade_red_sand_cast": "Broad Blade Red Sand Cast",
+  "item.tconstruct.hammer_head_red_sand_cast": "Tuangan Kepala Palu Pasir Merah",
+  "item.tconstruct.broad_axe_head_red_sand_cast": "Tuangan Kepala Kapak Lebar Pasir Merah",
+  "item.tconstruct.broad_blade_red_sand_cast": "Tuangan Bilah Besar Pasir Merah",
 
   "_comment": "Binding Red Sand Casts",
 
-  "item.tconstruct.tool_binding_red_sand_cast": "Tool Binding Red Sand Cast",
-  "item.tconstruct.round_plate_red_sand_cast": "Round Plate Red Sand Cast",
-  "item.tconstruct.large_plate_red_sand_cast": "Large Plate Red Sand Cast",
+  "item.tconstruct.tool_binding_red_sand_cast": "Tuangan Pengikat Alat Pasir Merah",
+  "item.tconstruct.round_plate_red_sand_cast": "Tuangan Piringan Bulat Pasir Merah",
+  "item.tconstruct.large_plate_red_sand_cast": "Tuangan Piringan Besar Pasir Merah",
 
   "_comment": "Tool Handle Red Sand Casts",
 
-  "item.tconstruct.tool_handle_red_sand_cast": "Tool Handle Red Sand Cast",
-  "item.tconstruct.tough_handle_red_sand_cast": "Tough Handle Red Sand Cast",
+  "item.tconstruct.tool_handle_red_sand_cast": "Tuangan Pegangan Alat Pasir Merah",
+  "item.tconstruct.tough_handle_red_sand_cast": "Tuangan Pegangan Kuat Pasir Merah",
 
 
   "_comment": "Tinkers Fluids",
 
-  "block.tconstruct.blazing_blood_fluid": "Darah Bersinar",
-  "fluid.tconstruct.blazing_blood": "Darah Bersinar",
-  "fluid.tconstruct.flowing_blazing_blood": "Darah Bersinar Mengalir",
-  "item.tconstruct.blazing_blood_bucket": "Ember Darah Bersinar",
+  "block.tconstruct.blazing_blood_fluid": "Darah Berkobar",
+  "fluid.tconstruct.blazing_blood": "Darah Berkobar",
+  "fluid.tconstruct.flowing_blazing_blood": "Darah Berkobar Mengalir",
+  "item.tconstruct.blazing_blood_bucket": "Ember Darah Berkobar",
 
 
   "_comment": "Food",
@@ -549,25 +549,25 @@
   "fluid.tconstruct.flowing_molten_iron": "Besi Leleh Mengalir",
   "item.tconstruct.molten_iron_bucket": "Ember Besi Leleh",
 
-  "block.tconstruct.molten_gold_fluid": "Molten Gold",
-  "fluid.tconstruct.molten_gold": "Molten Gold",
-  "fluid.tconstruct.flowing_molten_gold": "Flowing Molten Gold",
-  "item.tconstruct.molten_gold_bucket": "Molten Gold Bucket",
+  "block.tconstruct.molten_gold_fluid": "Emas Leleh",
+  "fluid.tconstruct.molten_gold": "Emas Leleh",
+  "fluid.tconstruct.flowing_molten_gold": "Emas Leleh Mengalir",
+  "item.tconstruct.molten_gold_bucket": "Ember Emas Leleh",
 
-  "block.tconstruct.molten_copper_fluid": "Molten Copper",
-  "fluid.tconstruct.molten_copper": "Molten Copper",
-  "fluid.tconstruct.flowing_molten_copper": "Flowing Molten Copper",
-  "item.tconstruct.molten_copper_bucket": "Molten Copper Bucket",
+  "block.tconstruct.molten_copper_fluid": "Tembaga Leleh",
+  "fluid.tconstruct.molten_copper": "Tembaga Leleh",
+  "fluid.tconstruct.flowing_molten_copper": "Tembaga Leleh Mengalir",
+  "item.tconstruct.molten_copper_bucket": "Ember Tembaga Leleh",
 
-  "block.tconstruct.molten_cobalt_fluid": "Molten Cobalt",
-  "fluid.tconstruct.molten_cobalt": "Molten Cobalt",
-  "fluid.tconstruct.flowing_molten_cobalt": "Flowing Molten Cobalt",
-  "item.tconstruct.molten_cobalt_bucket": "Molten Cobalt Bucket",
+  "block.tconstruct.molten_cobalt_fluid": "Kobalt Leleh",
+  "fluid.tconstruct.molten_cobalt": "Kobalt Leleh",
+  "fluid.tconstruct.flowing_molten_cobalt": "Kobalt Leleh Mengalir",
+  "item.tconstruct.molten_cobalt_bucket": "Ember Kobalt Leleh",
 
-  "block.tconstruct.molten_debris_fluid": "Molten Debris",
-  "fluid.tconstruct.molten_debris": "Molten Debris",
-  "fluid.tconstruct.flowing_molten_debris": "Flowing Molten Debris",
-  "item.tconstruct.molten_debris_bucket": "Molten Debris Bucket",
+  "block.tconstruct.molten_debris_fluid": "Puing Leleh",
+  "fluid.tconstruct.molten_debris": "Puing Leleh",
+  "fluid.tconstruct.flowing_molten_debris": "Puing Leleh Mengalir",
+  "item.tconstruct.molten_debris_bucket": "Ember Puing Leleh",
 
   "_comment": "Tier 3 Alloys",
 
@@ -744,32 +744,32 @@
 
   "_comment": "Tinkers Gadgets",
 
-  "block.tconstruct.punji": "Punji Sticks",
-  "block.tconstruct.punji.tooltip": "Pointy! Also sticks to walls.",
+  "block.tconstruct.punji": "Tongkat Punji",
+  "block.tconstruct.punji.tooltip": "Runcing! Juga bisa menempel di dinding.",
 
-  "item.tconstruct.clear_item_frame": "Clear Item Frame",
-  "item.tconstruct.gold_item_frame": "Golden Item Frame",
-  "item.tconstruct.reversed_gold_item_frame": "Inverted Golden Item Frame",
-  "item.tconstruct.diamond_item_frame": "Diamond Item Frame",
-  "item.tconstruct.manyullyn_item_frame": "Manyullyn Item Frame",
-  "item.tconstruct.netherite_item_frame": "Netherite Item Frame",
+  "item.tconstruct.clear_item_frame": "Bingkai Benda Transparan",
+  "item.tconstruct.gold_item_frame": "Bingkai Benda Emas",
+  "item.tconstruct.reversed_gold_item_frame": "Bingkai Benda Emas Terbalik",
+  "item.tconstruct.diamond_item_frame": "Bingkai Benda Berlian",
+  "item.tconstruct.manyullyn_item_frame": "Bingkai Benda Manyullyn",
+  "item.tconstruct.netherite_item_frame": "Bingkai Benda Netherite",
 
-  "item.tconstruct.glow_ball": "Glowball",
-  "item.tconstruct.glow_ball.tooltip": "Not suited for consumption.",
+  "item.tconstruct.glow_ball": "Bola Cahaya",
+  "item.tconstruct.glow_ball.tooltip": "Tidak baik untuk konsumsi.",
   "item.tconstruct.efln_ball": "EFLN",
-  "item.tconstruct.efln_ball.tooltip": "Explodes! Safe for mining",
+  "item.tconstruct.efln_ball.tooltip": "Meledak! Bagus untuk menambang",
 
-  "item.tconstruct.quartz_shuriken": "Quartz Shuriken",
-  "item.tconstruct.quartz_shuriken.tooltip": "A throwable weapon with higher damage",
-  "item.tconstruct.flint_shuriken": "Flint Shuriken",
-  "item.tconstruct.flint_shuriken.tooltip": "A throwable weapon with high knockback",
+  "item.tconstruct.quartz_shuriken": "Shuriken Kuarsa",
+  "item.tconstruct.quartz_shuriken.tooltip": "Senjata yang bisa dilempar dengan daya melukai yang lebih tinggi",
+  "item.tconstruct.flint_shuriken": "Shuriken Batu Api",
+  "item.tconstruct.flint_shuriken.tooltip": "Senjata yang bisa dilempar dengan daya dorong tinggi",
 
-  "block.tconstruct.earth_cake": "Earthslime Cake",
-  "block.tconstruct.sky_cake":   "Skyslime Cake",
-  "block.tconstruct.ichor_cake": "Ichor Cake",
-  "block.tconstruct.ender_cake": "Enderslime Cake",
-  "block.tconstruct.blood_cake": "Blood Cake",
-  "block.tconstruct.magma_cake": "Magma Cake",
+  "block.tconstruct.earth_cake": "Kue Lendir Bumi",
+  "block.tconstruct.sky_cake":   "Kue Lendir Angkasa",
+  "block.tconstruct.ichor_cake": "Kue Ichor",
+  "block.tconstruct.ender_cake": "Kue Lendir Ender",
+  "block.tconstruct.blood_cake": "Kue Darah",
+  "block.tconstruct.magma_cake": "Kue Magma",
 
   "item.tconstruct.earth_slime_sling": "Slime Sling",
   "item.tconstruct.earth_slime_sling.tooltip": "Charge up, aim low, get flinging!\nUse Slime Boots if you value your life!",
@@ -798,46 +798,46 @@
 
   "_comment": "Tinkers Tables",
 
-  "block.tconstruct.crafting_station": "Crafting Station",
+  "block.tconstruct.crafting_station": "Pangkalan Kerajinan",
 
-  "block.tconstruct.tinker_station": "Tinker Station",
-  "block.tconstruct.tinkers_anvil": "Tinker's Anvil",
-  "block.tconstruct.scorched_anvil": "Tinker's Anvil",
+  "block.tconstruct.tinker_station": "Pangakalan Tinker",
+  "block.tconstruct.tinkers_anvil": "Paron Tinker",
+  "block.tconstruct.scorched_anvil": "Paron Tinker",
 
-  "block.tconstruct.part_builder": "Part Builder",
+  "block.tconstruct.part_builder": "Pembuat Bagian",
 
-  "block.tconstruct.part_chest": "Part Chest",
-  "block.tconstruct.part_chest.tooltip": "Holds up to 256 different tool parts",
+  "block.tconstruct.part_chest": "Peti Bagian",
+  "block.tconstruct.part_chest.tooltip": "Bisa menampung sampai dengan 256 bagian alat yang berbeda",
 
-  "block.tconstruct.tinkers_chest": "Tinker's Chest",
-  "block.tconstruct.tinkers_chest.tooltip": "Holds up to 64 stacks of 16 items",
+  "block.tconstruct.tinkers_chest": "Peti Alat",
+  "block.tconstruct.tinkers_chest.tooltip": "Menampung sampai dengan 64 tumpukan dari 16 barang",
 
-  "block.tconstruct.cast_chest": "Cast Chest",
-  "block.tconstruct.cast_chest.tooltip": "Holds all relevant casts",
+  "block.tconstruct.cast_chest": "Peti Tuangan",
+  "block.tconstruct.cast_chest.tooltip": "Menampung semua tuangan yang ada",
 
-  "item.tconstruct.pattern": "Pattern",
+  "item.tconstruct.pattern": "Pola",
 
   "_comment": "Tinkers Tools",
 
-  "item.tconstruct.pickaxe": "Pickaxe",
-  "item.tconstruct.sledge_hammer": "Sledge Hammer",
-  "item.tconstruct.vein_hammer": "Vein Hammer",
+  "item.tconstruct.pickaxe": "Beliung",
+  "item.tconstruct.sledge_hammer": "Palu Godam",
+  "item.tconstruct.vein_hammer": "Palu Tambang",
 
-  "item.tconstruct.mattock": "Mattock",
-  "item.tconstruct.pickadze": "Pickadze",
-  "item.tconstruct.excavator": "Excavator",
+  "item.tconstruct.mattock": "Cangkul",
+  "item.tconstruct.pickadze": "Pangkur",
+  "item.tconstruct.excavator": "Pengeruk",
 
-  "item.tconstruct.hand_axe": "Hand Axe",
-  "item.tconstruct.broad_axe": "Broad Axe",
+  "item.tconstruct.hand_axe": "Kapak Tangan",
+  "item.tconstruct.broad_axe": "Kapak Besar",
 
   "item.tconstruct.kama": "Kama",
-  "item.tconstruct.scythe": "Scythe",
+  "item.tconstruct.scythe": "Sabit",
 
-  "item.tconstruct.dagger": "Dagger",
-  "item.tconstruct.sword": "Sword",
-  "item.tconstruct.cleaver": "Cleaver",
+  "item.tconstruct.dagger": "Belati",
+  "item.tconstruct.sword": "Pedang",
+  "item.tconstruct.cleaver": "Golok",
 
-  "item.tconstruct.flint_and_brick": "Flint and Brick",
+  "item.tconstruct.flint_and_brick": "Batu Api dan Bata",
 
   "item.tconstruct.travelers_helmet": "Traveler's Goggles",
   "item.tconstruct.travelers_chestplate": "Traveler's Vest",
