@@ -554,20 +554,20 @@
   "fluid.tconstruct.flowing_molten_gold": "Emas Leleh Mengalir",
   "item.tconstruct.molten_gold_bucket": "Ember Emas Leleh",
 
-  "block.tconstruct.molten_copper_fluid": "Molten Copper",
-  "fluid.tconstruct.molten_copper": "Molten Copper",
-  "fluid.tconstruct.flowing_molten_copper": "Flowing Molten Copper",
-  "item.tconstruct.molten_copper_bucket": "Molten Copper Bucket",
+  "block.tconstruct.molten_copper_fluid": "Tembaga Leleh",
+  "fluid.tconstruct.molten_copper": "Tembaga Leleh",
+  "fluid.tconstruct.flowing_molten_copper": "Tembaga Leleh Mengalir",
+  "item.tconstruct.molten_copper_bucket": "Ember Tembaga Leleh",
 
-  "block.tconstruct.molten_cobalt_fluid": "Molten Cobalt",
-  "fluid.tconstruct.molten_cobalt": "Molten Cobalt",
-  "fluid.tconstruct.flowing_molten_cobalt": "Flowing Molten Cobalt",
-  "item.tconstruct.molten_cobalt_bucket": "Molten Cobalt Bucket",
+  "block.tconstruct.molten_cobalt_fluid": "Kobalt Leleh",
+  "fluid.tconstruct.molten_cobalt": "Kobalt Leleh",
+  "fluid.tconstruct.flowing_molten_cobalt": "Kobalt Leleh Mengalir",
+  "item.tconstruct.molten_cobalt_bucket": "Ember Kobalt Leleh",
 
-  "block.tconstruct.molten_debris_fluid": "Molten Debris",
-  "fluid.tconstruct.molten_debris": "Molten Debris",
-  "fluid.tconstruct.flowing_molten_debris": "Flowing Molten Debris",
-  "item.tconstruct.molten_debris_bucket": "Molten Debris Bucket",
+  "block.tconstruct.molten_debris_fluid": "Puing Leleh",
+  "fluid.tconstruct.molten_debris": "Puing Leleh",
+  "fluid.tconstruct.flowing_molten_debris": "Puing Leleh Mengalir",
+  "item.tconstruct.molten_debris_bucket": "Ember Puing Leleh",
 
   "_comment": "Tier 3 Alloys",
 
@@ -744,32 +744,32 @@
 
   "_comment": "Tinkers Gadgets",
 
-  "block.tconstruct.punji": "Punji Sticks",
-  "block.tconstruct.punji.tooltip": "Pointy! Also sticks to walls.",
+  "block.tconstruct.punji": "Tongkat Punji",
+  "block.tconstruct.punji.tooltip": "Lancip! Juga menempel di dinding.",
 
-  "item.tconstruct.clear_item_frame": "Clear Item Frame",
-  "item.tconstruct.gold_item_frame": "Golden Item Frame",
-  "item.tconstruct.reversed_gold_item_frame": "Inverted Golden Item Frame",
-  "item.tconstruct.diamond_item_frame": "Diamond Item Frame",
-  "item.tconstruct.manyullyn_item_frame": "Manyullyn Item Frame",
-  "item.tconstruct.netherite_item_frame": "Netherite Item Frame",
+  "item.tconstruct.clear_item_frame": "Bingkai Barang Transparan",
+  "item.tconstruct.gold_item_frame": "Bingkai Barang Emas",
+  "item.tconstruct.reversed_gold_item_frame": "Bingkai Barang Emas Terbalik",
+  "item.tconstruct.diamond_item_frame": "Bingkai Barang Berlian",
+  "item.tconstruct.manyullyn_item_frame": "Bingkai Barang Manyullyn",
+  "item.tconstruct.netherite_item_frame": "Bingkai Barang Netherite",
 
-  "item.tconstruct.glow_ball": "Glowball",
-  "item.tconstruct.glow_ball.tooltip": "Not suited for consumption.",
+  "item.tconstruct.glow_ball": "Bola Cahaya",
+  "item.tconstruct.glow_ball.tooltip": "Tidak untuk dikonsumsi.",
   "item.tconstruct.efln_ball": "EFLN",
-  "item.tconstruct.efln_ball.tooltip": "Explodes! Safe for mining",
+  "item.tconstruct.efln_ball.tooltip": "Meledak! Bagus untuk menambang.",
 
-  "item.tconstruct.quartz_shuriken": "Quartz Shuriken",
-  "item.tconstruct.quartz_shuriken.tooltip": "A throwable weapon with higher damage",
-  "item.tconstruct.flint_shuriken": "Flint Shuriken",
-  "item.tconstruct.flint_shuriken.tooltip": "A throwable weapon with high knockback",
+  "item.tconstruct.quartz_shuriken": "Shuriken Kuarsa",
+  "item.tconstruct.quartz_shuriken.tooltip": "Senjata yang bisa dilempar dengan daya melukai tinggi",
+  "item.tconstruct.flint_shuriken": "Shuriken Batu Api",
+  "item.tconstruct.flint_shuriken.tooltip": "Senjata yang bisa dilempar dengan daya dorong tinggi",
 
-  "block.tconstruct.earth_cake": "Earthslime Cake",
-  "block.tconstruct.sky_cake":   "Skyslime Cake",
-  "block.tconstruct.ichor_cake": "Ichor Cake",
-  "block.tconstruct.ender_cake": "Enderslime Cake",
-  "block.tconstruct.blood_cake": "Blood Cake",
-  "block.tconstruct.magma_cake": "Magma Cake",
+  "block.tconstruct.earth_cake": "Kue Lendir Bumi",
+  "block.tconstruct.sky_cake":   "Kue Lendir Angkasa",
+  "block.tconstruct.ichor_cake": "Kue Ichor",
+  "block.tconstruct.ender_cake": "Kue Lendir Ender",
+  "block.tconstruct.blood_cake": "Kue Darah",
+  "block.tconstruct.magma_cake": "Kue Magma",
 
   "item.tconstruct.earth_slime_sling": "Slime Sling",
   "item.tconstruct.earth_slime_sling.tooltip": "Charge up, aim low, get flinging!\nUse Slime Boots if you value your life!",
@@ -784,27 +784,27 @@
   "item.tconstruct.piggy_backpack.tooltip": "Use on a mob to pick it up",
   "effect.tconstruct.carry": "Carrying",
 
-  "block.tconstruct.blaze_head":            "Blaze Head",
-  "block.tconstruct.enderman_head":         "Enderman Head",
-  "block.tconstruct.stray_head":            "Stray Skull",
-  "block.tconstruct.husk_head":             "Husk Head",
-  "block.tconstruct.drowned_head":          "Drowned Head",
-  "block.tconstruct.spider_head":           "Spider Head",
-  "block.tconstruct.cave_spider_head":      "Cave Spider Head",
-  "block.tconstruct.piglin_head":           "Piglin Head",
-  "block.tconstruct.piglin_brute_head":     "Piglin Brute Head",
-  "block.tconstruct.zombified_piglin_head": "Zombified Piglin Head",
+  "block.tconstruct.blaze_head":            "Kepala Blaze",
+  "block.tconstruct.enderman_head":         "Kepala Enderman",
+  "block.tconstruct.stray_head":            "Tengkorak Stray",
+  "block.tconstruct.husk_head":             "Kepala Husk",
+  "block.tconstruct.drowned_head":          "Kepala Drowned",
+  "block.tconstruct.spider_head":           "Kepala Laba-Laba",
+  "block.tconstruct.cave_spider_head":      "Kepala Laba-Laba Gua",
+  "block.tconstruct.piglin_head":           "Kepala Piglin",
+  "block.tconstruct.piglin_brute_head":     "Kepala Piglin Kasar",
+  "block.tconstruct.zombified_piglin_head": "Kepala Zombie Piglin",
 
 
   "_comment": "Tinkers Tables",
 
-  "block.tconstruct.crafting_station": "Crafting Station",
+  "block.tconstruct.crafting_station": "Pangkalan Kerajinan",
 
-  "block.tconstruct.tinker_station": "Tinker Station",
-  "block.tconstruct.tinkers_anvil": "Tinker's Anvil",
-  "block.tconstruct.scorched_anvil": "Tinker's Anvil",
+  "block.tconstruct.tinker_station": "Pangkalan Tinker",
+  "block.tconstruct.tinkers_anvil": "Paron Tinker",
+  "block.tconstruct.scorched_anvil": "Paron Tinker",
 
-  "block.tconstruct.part_builder": "Part Builder",
+  "block.tconstruct.part_builder": "Pembuat Bagian",
 
   "block.tconstruct.part_chest": "Part Chest",
   "block.tconstruct.part_chest.tooltip": "Holds up to 256 different tool parts",
@@ -815,29 +815,29 @@
   "block.tconstruct.cast_chest": "Cast Chest",
   "block.tconstruct.cast_chest.tooltip": "Holds all relevant casts",
 
-  "item.tconstruct.pattern": "Pattern",
+  "item.tconstruct.pattern": "Pola",
 
   "_comment": "Tinkers Tools",
 
-  "item.tconstruct.pickaxe": "Pickaxe",
-  "item.tconstruct.sledge_hammer": "Sledge Hammer",
-  "item.tconstruct.vein_hammer": "Vein Hammer",
+  "item.tconstruct.pickaxe": "Beliung",
+  "item.tconstruct.sledge_hammer": "Palu Godam",
+  "item.tconstruct.vein_hammer": "Palu Tambang",
 
-  "item.tconstruct.mattock": "Mattock",
-  "item.tconstruct.pickadze": "Pickadze",
-  "item.tconstruct.excavator": "Excavator",
+  "item.tconstruct.mattock": "Cangkul",
+  "item.tconstruct.pickadze": "Pangkur",
+  "item.tconstruct.excavator": "Penyerok",
 
-  "item.tconstruct.hand_axe": "Hand Axe",
-  "item.tconstruct.broad_axe": "Broad Axe",
+  "item.tconstruct.hand_axe": "Kapak Tangan",
+  "item.tconstruct.broad_axe": "Kapak Besar",
 
   "item.tconstruct.kama": "Kama",
-  "item.tconstruct.scythe": "Scythe",
+  "item.tconstruct.scythe": "Sabit",
 
-  "item.tconstruct.dagger": "Dagger",
-  "item.tconstruct.sword": "Sword",
-  "item.tconstruct.cleaver": "Cleaver",
+  "item.tconstruct.dagger": "Belati",
+  "item.tconstruct.sword": "Pedang",
+  "item.tconstruct.cleaver": "Parang",
 
-  "item.tconstruct.flint_and_brick": "Flint and Brick",
+  "item.tconstruct.flint_and_brick": "Batu Api dan Bata",
 
   "item.tconstruct.travelers_helmet": "Traveler's Goggles",
   "item.tconstruct.travelers_chestplate": "Traveler's Vest",
@@ -870,22 +870,22 @@
 
   "_comment": "Tinkers Tool Parts",
 
-  "item.tconstruct.repair_kit": "Repair Kit",
+  "item.tconstruct.repair_kit": "Kotak Perbaikan",
 
-  "item.tconstruct.pick_head": "Pick Head",
-  "item.tconstruct.hammer_head": "Hammer Head",
+  "item.tconstruct.pick_head": "Kepala Beliung",
+  "item.tconstruct.hammer_head": "Kepala Palu",
 
-  "item.tconstruct.small_axe_head": "Small Axe Head",
-  "item.tconstruct.broad_axe_head": "Broad Axe Head",
+  "item.tconstruct.small_axe_head": "Kepala Kaak Kecil",
+  "item.tconstruct.broad_axe_head": "Kepala Kapak Lebar",
 
-  "item.tconstruct.small_blade": "Small Blade",
-  "item.tconstruct.broad_blade": "Broad Blade",
+  "item.tconstruct.small_blade": "Bilah Kecil",
+  "item.tconstruct.broad_blade": "Bilah Besar",
 
-  "item.tconstruct.tool_handle": "Tool Handle",
-  "item.tconstruct.tough_handle": "Tough Handle",
-  "item.tconstruct.tool_binding": "Tool Binding",
-  "item.tconstruct.round_plate": "Round Plate",
-  "item.tconstruct.large_plate": "Large Plate",
+  "item.tconstruct.tool_handle": "Pegangan Alat",
+  "item.tconstruct.tough_handle": "Pegangan Kuat",
+  "item.tconstruct.tool_binding": "Pengikat Alat",
+  "item.tconstruct.round_plate": "Piringan Kecil",
+  "item.tconstruct.large_plate": "Piringan Lebar",
 
 
   "_conment": "Tool Descriptions",
@@ -962,8 +962,8 @@
 
   "_comment": "Tinkers Smeltery",
 
-  "block.tconstruct.grout": "Grout",
-  "block.tconstruct.grout.tooltip": "I am Grout!",
+  "block.tconstruct.grout": "Semen",
+  "block.tconstruct.grout.tooltip": "Aku Semen!",
 
   "block.tconstruct.seared_stone": "Seared Stone",
   "block.tconstruct.seared_stone.tooltip": "Part of the Smeltery.",
@@ -1049,8 +1049,8 @@
 
   "_comment": "Tinkers Foundry",
 
-  "block.tconstruct.nether_grout": "Nether Grout",
-  "block.tconstruct.nether_grout.tooltip": "We are Grout!",
+  "block.tconstruct.nether_grout": "Semen Neraka",
+  "block.tconstruct.nether_grout.tooltip": "Kami Semen!",
 
   "block.tconstruct.scorched_stone": "Scorched Stone",
   "block.tconstruct.scorched_stone.tooltip": "Part of the Foundry.",
@@ -1137,13 +1137,13 @@
 
   "_comment": "Tinkers World",
 
-  "entity.tconstruct.earth_slime": "Slime",
-  "entity.tconstruct.sky_slime": "Skyslime",
-  "item.tconstruct.sky_slime_spawn_egg": "Skyslime Spawn Egg",
-  "entity.tconstruct.ender_slime": "Enderslime",
-  "item.tconstruct.ender_slime_spawn_egg": "Enderslime Spawn Egg",
+  "entity.tconstruct.earth_slime": "Lendir",
+  "entity.tconstruct.sky_slime": "Lendir Angkasa",
+  "item.tconstruct.sky_slime_spawn_egg": "Pemuncul Lendir Angkasa",
+  "entity.tconstruct.ender_slime": "Lendir Ender",
+  "item.tconstruct.ender_slime_spawn_egg": "Pemuncul Lendir Ender",
   "entity.tconstruct.terracube": "Terracube",
-  "item.tconstruct.terracube_spawn_egg": "Terracube Spawn Egg",
+  "item.tconstruct.terracube_spawn_egg": "Pemuncul Terracube",
 
   "block.tconstruct.earth_slime_dirt": "Earthslime Dirt",
   "block.tconstruct.earth_slime_dirt.tooltip": "Slimy, but lets you jump higher",
